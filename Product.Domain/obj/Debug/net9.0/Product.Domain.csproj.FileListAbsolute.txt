@@ -1,0 +1,11 @@
+D:\CredenceAI\ProductService\Product.Domain\bin\Debug\net9.0\Product.Domain.deps.json
+D:\CredenceAI\ProductService\Product.Domain\bin\Debug\net9.0\Product.Domain.dll
+D:\CredenceAI\ProductService\Product.Domain\bin\Debug\net9.0\Product.Domain.pdb
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.AssemblyInfoInputs.cache
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.AssemblyInfo.cs
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.csproj.CoreCompileInputs.cache
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.dll
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\refint\Product.Domain.dll
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.pdb
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\ref\Product.Domain.dll

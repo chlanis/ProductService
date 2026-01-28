@@ -1,0 +1,15 @@
+D:\CredenceAI\ProductService\Product.Application\bin\Debug\net9.0\Product.Application.deps.json
+D:\CredenceAI\ProductService\Product.Application\bin\Debug\net9.0\Product.Application.dll
+D:\CredenceAI\ProductService\Product.Application\bin\Debug\net9.0\Product.Application.pdb
+D:\CredenceAI\ProductService\Product.Application\bin\Debug\net9.0\Product.Domain.dll
+D:\CredenceAI\ProductService\Product.Application\bin\Debug\net9.0\Product.Domain.pdb
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\Product.Application.csproj.AssemblyReference.cache
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\Product.Application.AssemblyInfoInputs.cache
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\Product.Application.AssemblyInfo.cs
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\Product.Application.csproj.CoreCompileInputs.cache
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\Product..7E280BC3.Up2Date
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\Product.Application.dll
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\refint\Product.Application.dll
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\Product.Application.pdb
+D:\CredenceAI\ProductService\Product.Application\obj\Debug\net9.0\ref\Product.Application.dll
