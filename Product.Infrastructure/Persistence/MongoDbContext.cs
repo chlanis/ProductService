@@ -1,5 +1,6 @@
 using Microsoft.Extensions.Configuration;
 using MongoDB.Driver;
+using MongoDB.Bson.Serialization;
 using Product.Domain.Entities;
 
 namespace Product.Infrastructure.Persistence
@@ -15,6 +16,16 @@ namespace Product.Infrastructure.Persistence
             
             var client = new MongoClient(connectionString);
             _database = client.GetDatabase(databaseName);
+
+            // Register BsonClassMap
+            if (!BsonClassMap.IsClassMapRegistered(typeof(Domain.Entities.Product)))
+            {
+                BsonClassMap.RegisterClassMap<Domain.Entities.Product>(cm =>
+                {
+                    cm.AutoMap();
+                    cm.MapIdProperty(p => p.Id);
+                });
+            }
         }
 
         public IMongoCollection<Domain.Entities.Product> Products => _database.GetCollection<Domain.Entities.Product>("Products");
