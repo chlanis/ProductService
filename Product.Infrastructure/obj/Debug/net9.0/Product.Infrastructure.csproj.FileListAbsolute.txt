@@ -1,8 +1,3 @@
-D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.csproj.AssemblyReference.cache
-D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.AssemblyInfoInputs.cache
-D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.AssemblyInfo.cs
-D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.csproj.CoreCompileInputs.cache
 D:\CredenceAI\ProductService\Product.Infrastructure\bin\Debug\net9.0\Product.Infrastructure.deps.json
 D:\CredenceAI\ProductService\Product.Infrastructure\bin\Debug\net9.0\Product.Infrastructure.dll
 D:\CredenceAI\ProductService\Product.Infrastructure\bin\Debug\net9.0\Product.Infrastructure.pdb
@@ -10,6 +5,12 @@ D:\CredenceAI\ProductService\Product.Infrastructure\bin\Debug\net9.0\Product.App
 D:\CredenceAI\ProductService\Product.Infrastructure\bin\Debug\net9.0\Product.Domain.dll
 D:\CredenceAI\ProductService\Product.Infrastructure\bin\Debug\net9.0\Product.Application.pdb
 D:\CredenceAI\ProductService\Product.Infrastructure\bin\Debug\net9.0\Product.Domain.pdb
+D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.csproj.AssemblyReference.cache
+D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.AssemblyInfoInputs.cache
+D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.AssemblyInfo.cs
+D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.sourcelink.json
 D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product..29DFF9BD.Up2Date
 D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\Product.Infrastructure.dll
 D:\CredenceAI\ProductService\Product.Infrastructure\obj\Debug\net9.0\refint\Product.Infrastructure.dll

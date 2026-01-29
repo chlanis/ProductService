@@ -11,7 +11,6 @@ D:\CredenceAI\ProductService\Product.API\bin\Debug\net9.0\FluentValidation.dll
 D:\CredenceAI\ProductService\Product.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\CredenceAI\ProductService\Product.API\bin\Debug\net9.0\MediatR.dll
 D:\CredenceAI\ProductService\Product.API\bin\Debug\net9.0\MediatR.Contracts.dll
-D:\CredenceAI\ProductService\Product.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 D:\CredenceAI\ProductService\Product.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
 D:\CredenceAI\ProductService\Product.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\CredenceAI\ProductService\Product.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
@@ -46,6 +45,7 @@ D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\Product.API.AssemblyIn
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\Product.API.csproj.CoreCompileInputs.cache
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\Product.API.MvcApplicationPartsAssemblyInfo.cs
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\Product.API.MvcApplicationPartsAssemblyInfo.cache
+D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\Product.API.sourcelink.json
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -54,6 +54,7 @@ D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\staticwebassets.build.
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\staticwebassets.development.json
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\Product..3613E4EC.Up2Date
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\Product.API.dll
 D:\CredenceAI\ProductService\Product.API\obj\Debug\net9.0\refint\Product.API.dll

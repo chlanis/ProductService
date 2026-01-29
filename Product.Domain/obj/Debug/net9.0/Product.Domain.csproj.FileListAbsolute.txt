@@ -5,6 +5,7 @@ D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.Gene
 D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.AssemblyInfoInputs.cache
 D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.AssemblyInfo.cs
 D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.csproj.CoreCompileInputs.cache
+D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.sourcelink.json
 D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.dll
 D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\refint\Product.Domain.dll
 D:\CredenceAI\ProductService\Product.Domain\obj\Debug\net9.0\Product.Domain.pdb
